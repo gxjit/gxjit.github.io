@@ -28,7 +28,7 @@ hr {
   font-size: 3rem;
   text-decoration: none;
   color: #4e6172;
-  margin: auto 0.5rem;
+  margin: auto 0.2rem;
 }
 
 #links a:hover {
@@ -92,6 +92,9 @@ footer {
 @media (min-width: 480px) {
   .img-contain {
     height: 24vmin;
+  }
+  #links a {
+    margin: auto 0.5rem;
   }
 }
 
