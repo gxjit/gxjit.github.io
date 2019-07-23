@@ -4,7 +4,7 @@ body {
   padding: 0;
   background-image: linear-gradient(to right, #654ea3, #eaafc8);
   font-family: "Montserrat", Helvetica, sans-serif;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 hr {
@@ -28,7 +28,7 @@ hr {
   font-size: 3rem;
   text-decoration: none;
   color: #4e6172;
-  margin: auto 0.2rem;
+  margin: auto 0.4rem;
 }
 
 #links a:hover {
