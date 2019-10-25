@@ -4,7 +4,6 @@
   "subtitle": "Full-Stack Web Developer",
   "links": {
     "fab fa-github": "https://github.com/gxjit",
-    "fas fa-file-alt": "/assets/media/cv.pdf",
     "fas fa-envelope-open-text": "contact"
   },
   "formSubmit": "https://formspree.io/g.s@outlook.in"
