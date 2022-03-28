@@ -1,7 +1,7 @@
 {
   "imgPath": "./assets/media/avatar.jpg",
   "title": "Gurjit Singh",
-  "subtitle": "Full-Stack Web Developer",
+  "subtitle": "IT Engineer",
   "links": {
     "fab fa-github": "https://github.com/gxjit",
     "fas fa-envelope-open-text": "contact"
