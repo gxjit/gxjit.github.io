@@ -1,7 +1,7 @@
 {
   "imgPath": "./assets/media/avatar.jpg",
   "title": "Gurjit Singh",
-  "subtitle": "IT Engineer",
+  "subtitle": "",
   "links": {
     "fab fa-github": "https://github.com/gxjit",
     "fas fa-envelope-open-text": "contact"
