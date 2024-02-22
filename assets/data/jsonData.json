@@ -1,7 +1,7 @@
 {
   "imgPath": "./assets/media/avatar.jpg",
   "title": "Gurjit Singh",
-  "subtitle": "Front-End Web Developer | Security Operations Analyst | IT Consultant",
+  "subtitle": "Front-End Web Developer \n| Security Operations Analyst | IT Consultant",
   "links": {
     "fab fa-github": "https://github.com/gxjit",
     "fas fa-envelope-open-text": "contact"
